@@ -1,4 +1,4 @@
-https://rentry.co/altairsdustyattic
+info : https://rentry.co/altairsdustyattic
 
 <!---
 lovemetaphors/lovemetaphors is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
